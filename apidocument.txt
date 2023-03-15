@@ -1,0 +1,13 @@
+NO1
+--- Product model create ---
+#php artisan make:model Product -a
+NO2
+--- Category model create ---
+#php artisan make:model Category -a
+NO3
+--- Order model create ---
+#php artisan make:model Order -
+NO4
+--- Role model create ---
+#php artisan make:model Role -a
+
